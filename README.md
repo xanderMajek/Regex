@@ -1,4 +1,4 @@
 # Regex
 CSCE 355
 
-See assigntment pdf.
+See assignment pdf.
