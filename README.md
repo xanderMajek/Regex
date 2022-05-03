@@ -1,7 +1,7 @@
 # Regex
 CSCE 355 : See assignment pdf
 
--*args*-
+*ARGS*
 
 --no-op, --empty, --has-epsilon, --has-nonepsilon, --infinite, --starts-with a, --ends-with a,
 
