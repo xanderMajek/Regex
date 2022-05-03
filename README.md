@@ -1,6 +1,12 @@
 # Regex
 CSCE 355 : See assignment pdf
 
+-*args*-
+
+--no-op, --empty, --has-epsilon, --has-nonepsilon, --infinite, --starts-with a, --ends-with a,
+
+--reverse, --prefixes, --suffixes, --b-before-a, --drop-one, --strip
+
 -*Some example inputs*-
 
 (a+b)*/
